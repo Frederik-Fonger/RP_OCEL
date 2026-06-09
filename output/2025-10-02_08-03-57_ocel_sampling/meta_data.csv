@@ -1,0 +1,2 @@
+connectivity_threshold;sampling_time;object types for selection;file path;sampling algo;sample ratio for step one;sampling ratio
+0.35;48.933550119400024;['orders', 'packages'];data/order management/original/order-management_fixed.xml;0.1;RP;0.14999387154764873

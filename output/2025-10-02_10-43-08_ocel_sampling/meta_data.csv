@@ -1,0 +1,2 @@
+connectivity_threshold;sampling_time;object types for selection;file path;sampling algo;sample ratio for step one;sampling ratio
+0.5;10.634779214859009;['Container', 'Handling Unit', 'Transport Document', 'Vehicle', 'Customer Order'];data/logistics/original/ContainerLogistics_from_json.xml;0.1;RP;0.14999387154764873

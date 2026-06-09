@@ -1,0 +1,2 @@
+connectivity_threshold;sampling_time;object types for selection;file path;sampling algo;sample ratio for step one;sampling ratio
+0.65;9.274629831314087;['Candidate', 'JobRequisition', 'Assessment'];data/lrms collection/03_hiring.xml;0.2;AB;0.24999368734691416

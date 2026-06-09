@@ -1,0 +1,2 @@
+connectivity_threshold,sampling_time,object types for selection,file path,sampling algo,sampling ratio
+0.5,26.412097692489624,"['Purchase Order', 'Invoice', 'Goods Receipt', 'Payment']",data/lrms collection/02_p2p.xml,AB,0.01
